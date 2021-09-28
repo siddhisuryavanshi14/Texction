@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Texction</string>
+    <string name="preference_file">Image Preferences</string>
+</resources>
